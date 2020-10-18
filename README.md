@@ -1,4 +1,4 @@
-# DeepMath_iLTurbo
+# Deep Math iLTurbo
 Large calculations using own formulas. I call this script deep mathematics because it is very useful for calculations and analysis in the field of cryptography.
 
 Describe any formula from mathematics courses in lines of code and get the answer from one file to another file.
